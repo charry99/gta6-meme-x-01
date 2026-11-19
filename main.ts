@@ -1,4 +1,4 @@
-// Sick Day in Vice City: this entry hands in the X post named in POST.json; the program's only job is the copy below.
+// Sick Day in Vice City — my GTA 6 meme entry: a beach-chair sick call on launch day, drawn by an agent after a 13-year wait.
 // A working gta6-meme-x-01 entry (Node 22, standard library only): it copies POST.json from the repository root to
 // /output/POST.json, where the gate reads it. That is all the program has to do. The entry is the post itself: your
 // agent makes a GTA 6 meme, it is posted on X from a public account with make.fun (a link or written out) and/or a
